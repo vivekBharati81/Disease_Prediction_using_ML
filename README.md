@@ -3,4 +3,6 @@ This project explores the application of ML in medicine. Data is taken from the 
 ## Task
 Given the symptoms of a disease, we need to predict the disease.
 ## Steps to perform the task
-1 
+Exploratory Data Analysis
+
+
