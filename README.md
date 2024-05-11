@@ -1,4 +1,2 @@
-# ML_Project
-Disease Prediction using Machine Learning
-
-# This project explore the application of ML in medical 
+# Disease Prediction using Machine Learning
+This project explores the application of ML in medical  
